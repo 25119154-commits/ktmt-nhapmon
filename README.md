@@ -1,2 +1,4 @@
 # ktmt-nhapmon
-dự án đầu tiên của tôi
+Lê Nguyễn Quốc Thái
+25119154
+xin chào đến với bộ môn kỹ thuật máy tính
